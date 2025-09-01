@@ -78,7 +78,7 @@ body {
   border-radius: 50%;
 }
 
-.author-info h2 {
+.author-info h3 {
   font: var(--text-preset-2);
 }
 
@@ -130,7 +130,7 @@ body {
   background-color: var(--color-white);
   color: var(--color-black);
 
-  .author-info h2 {
+  .author-info h3 {
     color: var(--color-grey-500);
   }
 
